@@ -10,5 +10,7 @@ public class TestMain {
 		if(StringUtils.isNotEmpty(str)) {
 			System.out.println(str + "hahaha");
 		}
+		
+		System.out.println("≤‚ ‘git");
 	}
 }
