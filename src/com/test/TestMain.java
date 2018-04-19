@@ -16,5 +16,6 @@ public class TestMain {
 		System.out.println("测试更新git2");
 		System.out.println("测试冲突1");
 		System.out.println("测试冲突2");
+		System.out.println("测试冲突3");
 	}
 }
