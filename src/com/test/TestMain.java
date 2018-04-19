@@ -17,5 +17,6 @@ public class TestMain {
 		System.out.println("测试冲突1");
 		System.out.println("测试冲突2");
 		System.out.println("测试冲突3");
+		System.out.println("测试冲突5");
 	}
 }
