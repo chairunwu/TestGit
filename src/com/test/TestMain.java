@@ -11,6 +11,6 @@ public class TestMain {
 			System.out.println(str + "hahaha");
 		}
 		
-		System.out.println("²âÊÔgit");
+		System.out.println("æµ‹è¯•æäº¤git");
 	}
 }
