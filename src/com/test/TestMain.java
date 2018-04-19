@@ -13,5 +13,6 @@ public class TestMain {
 		
 		System.out.println("测试提交git");
 		System.out.println("测试更新git");
+		System.out.println("测试更新git2");
 	}
 }
