@@ -14,6 +14,7 @@ public class TestSpringBootController {
 	@ResponseBody
 	String home() {
 		return "hahahah123";
+		return "hahahah456";
 	}
 	
 	public static void main(String[] args) {
