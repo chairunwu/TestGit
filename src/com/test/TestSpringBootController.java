@@ -13,7 +13,7 @@ public class TestSpringBootController {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
-		return "hahahah";
+		return "hahahah456";
 	}
 	
 	public static void main(String[] args) {
