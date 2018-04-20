@@ -13,6 +13,7 @@ public class TestSpringBootController {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
+		return "hahahah123";
 		return "hahahah456";
 	}
 	
